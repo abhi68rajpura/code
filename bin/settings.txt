@@ -1,0 +1,14 @@
+shud send losers report
+shud sent gainers report
+n in top n losers
+n in top n gainers
+shud sent biggest volume traded report
+shud send lowest volume traded report
+n in top n in biggest vol traded
+n in top n in lowest vol traded
+shud send cap chnage alert
+% incrs on old cap when send alert
+% decrs on old cap when send alert
+shud sent market volume alert
+% vol traded over market cap when to send alert
+days to fetch data 
